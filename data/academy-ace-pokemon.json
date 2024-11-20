@@ -1,0 +1,699 @@
+[
+    {
+        "trainer_name": "Elite Four Hassel",
+        "pokemon": [
+            {
+                "pokemon_name": "Duraludon",
+                "level": 82,
+                "ability": "Stalwart",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Noivern",
+                "level": 82,
+                "ability": "Infiltrator",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Haxorus",
+                "level": 82,
+                "ability": "Mold Breaker",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Dragalge",
+                "level": 82,
+                "ability": "Poison Point",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Dragonite",
+                "level": 82,
+                "ability": "Inner Focus",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Baxcalibur",
+                "level": 83,
+                "ability": "Thermal Exchange",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Instructor Dendra",
+        "pokemon": [
+            {
+                "pokemon_name": "Hitmontop",
+                "level": 80,
+                "ability": "Technician",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Tauros",
+                "level": 80,
+                "ability": "Intimidate",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Tauros",
+                "level": 80,
+                "ability": "Intimidate",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Medicham",
+                "level": 80,
+                "ability": "Pure Power",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Hawlucha",
+                "level": 80,
+                "ability": "Limber",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Hariyama",
+                "level": 81,
+                "ability": "Thick Fat",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Nurse Miriam",
+        "pokemon": [
+            {
+                "pokemon_name": "Hypno",
+                "level": 80,
+                "ability": "Insomnia",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Pincurchin",
+                "level": 80,
+                "ability": "Lightning Rod",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Meganium",
+                "level": 80,
+                "ability": "Overgrow",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Glalie",
+                "level": 80,
+                "ability": "Inner Focus",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Eelektross",
+                "level": 80,
+                "ability": "Levitate",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Toxapex",
+                "level": 81,
+                "ability": "Merciless",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Instructor Raifort",
+        "pokemon": [
+            {
+                "pokemon_name": "Zoroark",
+                "level": 80,
+                "ability": "Illusion",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Seviper",
+                "level": 80,
+                "ability": "Shed Skin",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Grumpig",
+                "level": 80,
+                "ability": "Thick Fat",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Malamar",
+                "level": 80,
+                "ability": "Contrary",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Scizor",
+                "level": 80,
+                "ability": "Technician",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Gengar",
+                "level": 81,
+                "ability": "Cursed Body",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Instructor Saguaro",
+        "pokemon": [
+            {
+                "pokemon_name": "Pachirisu",
+                "level": 80,
+                "ability": "Run Away",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Alomomola",
+                "level": 80,
+                "ability": "Hydration",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Alcremie",
+                "level": 80,
+                "ability": "Sweet Veil",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Vespiquen",
+                "level": 80,
+                "ability": "Pressure",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Goodra",
+                "level": 80,
+                "ability": "Sap Sipper",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Hatterene",
+                "level": 81,
+                "ability": "Healer",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Intructor Jacq",
+        "pokemon": [
+            {
+                "pokemon_name": "Victreebel",
+                "level": 80,
+                "ability": "Chlorophyll",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Arcanine",
+                "level": 80,
+                "ability": "Intimidate",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Swalot",
+                "level": 80,
+                "ability": "Liquid Ooze",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Mudsdale",
+                "level": 80,
+                "ability": "Stamina",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Slowbro",
+                "level": 80,
+                "ability": "",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Farigiraf",
+                "level": 81,
+                "ability": "Armor Tail",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Instructor Tyme",
+        "pokemon": [
+            {
+                "pokemon_name": "Kleavor",
+                "level": 80,
+                "ability": "Sharpness",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Lycanroc",
+                "level": 80,
+                "ability": "Tough Claws",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Drednaw",
+                "level": 80,
+                "ability": "Strong Jaw",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Stonjourner",
+                "level": 80,
+                "ability": "Power Spot",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Coalossal",
+                "level": 80,
+                "ability": "Steam Engine",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Garganacl",
+                "level": 81,
+                "ability": "Purifying Salt",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Instructor Salvatore",
+        "pokemon": [
+            {
+                "pokemon_name": "Gothitelle",
+                "level": 80,
+                "ability": "Competitive",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Honchkrow",
+                "level": 80,
+                "ability": "Super Luck",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Persian",
+                "level": 80,
+                "ability": "Technician",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Palossand",
+                "level": 80,
+                "ability": "Water Compaction",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Sandslash",
+                "level": 80,
+                "ability": "",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Raichu",
+                "level": 81,
+                "ability": "Static",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Director Clavell",
+        "pokemon": [
+            {
+                "pokemon_name": "Oranguru",
+                "level": 80,
+                "ability": "Inner Focus",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Abomasnow",
+                "level": 80,
+                "ability": "Snow Warning",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Polteageist",
+                "level": 80,
+                "ability": "Weak Armor",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Houndoom",
+                "level": 80,
+                "ability": "Flash Fire",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Amoonguss",
+                "level": 80,
+                "ability": "Effect Spore",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Quaquaval",
+                "level": 81,
+                "ability": "Torrent",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Director Clavell",
+        "pokemon": [
+            {
+                "pokemon_name": "Oranguru",
+                "level": 80,
+                "ability": "Inner Focus",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Abomasnow",
+                "level": 80,
+                "ability": "Snow Warning",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Polteageist",
+                "level": 80,
+                "ability": "Weak Armor",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Amoonguss",
+                "level": 80,
+                "ability": "Effect Spore",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Gyarados",
+                "level": 80,
+                "ability": "Intimidate",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Skeledirge",
+                "level": 81,
+                "ability": "Blaze",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Director Clavell",
+        "pokemon": [
+            {
+                "pokemon_name": "Oranguru",
+                "level": 80,
+                "ability": "Inner Focus",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Abomasnow",
+                "level": 80,
+                "ability": "Snow Warning",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Polteageist",
+                "level": 80,
+                "ability": "Weak Armor",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Gyarados",
+                "level": 80,
+                "ability": "Intimidate",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Houndoom",
+                "level": 80,
+                "ability": "Flash Fire",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Meowscarada",
+                "level": 81,
+                "ability": "Overgrow",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Top Champion Geeta",
+        "pokemon": [
+            {
+                "pokemon_name": "Glimmora",
+                "level": 84,
+                "ability": "Toxic Debris",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Espathra",
+                "level": 84,
+                "ability": "Opportunist",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Chesnaught",
+                "level": 84,
+                "ability": "Bulletproof",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Avalugg",
+                "level": 84,
+                "ability": "Own Tempo",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Dragapult",
+                "level": 84,
+                "ability": "Clear Body",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Kingambit",
+                "level": 85,
+                "ability": "Supreme Overlord",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Pok\u00e9mon Trainer Penny",
+        "pokemon": [
+            {
+                "pokemon_name": "Umbreon",
+                "level": 84,
+                "ability": "Synchronize",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Vaporeon",
+                "level": 84,
+                "ability": "Water Absorb",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Jolteon",
+                "level": 84,
+                "ability": "Quick Feet",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Flareon",
+                "level": 84,
+                "ability": "Flash Fire",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Leafeon",
+                "level": 84,
+                "ability": "Leaf Guard",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Sylveon",
+                "level": 85,
+                "ability": "Cute Charm",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Pok\u00e9mon Trainer Arven",
+        "pokemon": [
+            {
+                "pokemon_name": "Greedent",
+                "level": 82,
+                "ability": "Cheek Pouch",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Cloyster",
+                "level": 82,
+                "ability": "Skill Link",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Scovillain",
+                "level": 82,
+                "ability": "Chlorophyll",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Toedscruel",
+                "level": 82,
+                "ability": "Mycelium Might",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Garganacl",
+                "level": 82,
+                "ability": "Purifying Salt",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Mabosstiff",
+                "level": 83,
+                "ability": "Intimidate",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Pok\u00e9mon Trainer Nemona",
+        "pokemon": [
+            {
+                "pokemon_name": "Lycanroc",
+                "level": 86,
+                "ability": "Sand Rush",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Kommo-o",
+                "level": 86,
+                "ability": "Soundproof",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Infernape",
+                "level": 86,
+                "ability": "Blaze",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Milotic",
+                "level": 86,
+                "ability": "Competitive",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Pawmot",
+                "level": 86,
+                "ability": "Volt Absorb",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Meowscarada",
+                "level": 87,
+                "ability": "Overgrow",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Pok\u00e9mon Trainer Nemona",
+        "pokemon": [
+            {
+                "pokemon_name": "Lycanroc",
+                "level": 86,
+                "ability": "Sand Rush",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Kommo-o",
+                "level": 86,
+                "ability": "Soundproof",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Decidueye",
+                "level": 86,
+                "ability": "Overgrow",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Ribombee",
+                "level": 86,
+                "ability": "Shield Dust",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Pawmot",
+                "level": 86,
+                "ability": "Volt Absorb",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Quaquaval",
+                "level": 87,
+                "ability": "Torrent",
+                "is_last_pokemon": true
+            }
+        ]
+    },
+    {
+        "trainer_name": "Pok\u00e9mon Trainer Nemona",
+        "pokemon": [
+            {
+                "pokemon_name": "Lycanroc",
+                "level": 86,
+                "ability": "Sand Rush",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Kommo-o",
+                "level": 86,
+                "ability": "Soundproof",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Greninja",
+                "level": 86,
+                "ability": "Torrent",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Dusknoir",
+                "level": 86,
+                "ability": "Pressure",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Pawmot",
+                "level": 86,
+                "ability": "Volt Absorb",
+                "is_last_pokemon": false
+            },
+            {
+                "pokemon_name": "Skeledirge",
+                "level": 87,
+                "ability": "Blaze",
+                "is_last_pokemon": true
+            }
+        ]
+    }
+]

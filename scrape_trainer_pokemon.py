@@ -1,5 +1,6 @@
+import json
+
 from bs4 import BeautifulSoup
-import pandas as pd
 import requests
 
 
@@ -12,7 +13,7 @@ def main():
     section_header = soup.find("a", attrs={"name": "opponentsr2"}).parent.parent
     trainer_tables = section_header.find_next_siblings("table")
 
-    trainer_list = list()
+    trainer_data = list()
     for table in trainer_tables:
         rows = table.find_all("tr")
         trainer_and_pokemon_row = rows[1].find_all("td")
@@ -40,17 +41,10 @@ def main():
             ],
         }
 
-        trainer_list.append(trainer)
+        trainer_data.append(trainer)
 
-    trainer_data = pd.DataFrame(trainer_list)
-    trainer_data = trainer_data.explode("pokemon", ignore_index=True)
-    pokemon_df = pd.json_normalize(trainer_data["pokemon"])
-    trainer_data = pd.concat(
-        [trainer_data[["trainer_name"]], pokemon_df],
-        axis=1,
-    )
-
-    trainer_data.to_csv("./data/academy-ace-pokemon.csv", index=False)
+    with open("./data/academy-ace-pokemon.json", "w") as f:
+        json.dump(trainer_data, f, indent=4)
 
 if __name__ == "__main__":
     main()
