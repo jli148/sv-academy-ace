@@ -1,0 +1,103 @@
+trainer_name,pokemon_name,level,ability,is_last_pokemon
+Elite Four Hassel,Duraludon,82,Stalwart,False
+Elite Four Hassel,Noivern,82,Infiltrator,False
+Elite Four Hassel,Haxorus,82,Mold Breaker,False
+Elite Four Hassel,Dragalge,82,Poison Point,False
+Elite Four Hassel,Dragonite,82,Inner Focus,False
+Elite Four Hassel,Baxcalibur,83,Thermal Exchange,True
+Instructor Dendra,Hitmontop,80,Technician,False
+Instructor Dendra,Tauros,80,Intimidate,False
+Instructor Dendra,Tauros,80,Intimidate,False
+Instructor Dendra,Medicham,80,Pure Power,False
+Instructor Dendra,Hawlucha,80,Limber,False
+Instructor Dendra,Hariyama,81,Thick Fat,True
+Nurse Miriam,Hypno,80,Insomnia,False
+Nurse Miriam,Pincurchin,80,Lightning Rod,False
+Nurse Miriam,Meganium,80,Overgrow,False
+Nurse Miriam,Glalie,80,Inner Focus,False
+Nurse Miriam,Eelektross,80,Levitate,False
+Nurse Miriam,Toxapex,81,Merciless,True
+Instructor Raifort,Zoroark,80,Illusion,False
+Instructor Raifort,Seviper,80,Shed Skin,False
+Instructor Raifort,Grumpig,80,Thick Fat,False
+Instructor Raifort,Malamar,80,Contrary,False
+Instructor Raifort,Scizor,80,Technician,False
+Instructor Raifort,Gengar,81,Cursed Body,True
+Instructor Saguaro,Pachirisu,80,Run Away,False
+Instructor Saguaro,Alomomola,80,Hydration,False
+Instructor Saguaro,Alcremie,80,Sweet Veil,False
+Instructor Saguaro,Vespiquen,80,Pressure,False
+Instructor Saguaro,Goodra,80,Sap Sipper,False
+Instructor Saguaro,Hatterene,81,Healer,True
+Intructor Jacq,Victreebel,80,Chlorophyll,False
+Intructor Jacq,Arcanine,80,Intimidate,False
+Intructor Jacq,Swalot,80,Liquid Ooze,False
+Intructor Jacq,Mudsdale,80,Stamina,False
+Intructor Jacq,Slowbro,80,,False
+Intructor Jacq,Farigiraf,81,Armor Tail,True
+Instructor Tyme,Kleavor,80,Sharpness,False
+Instructor Tyme,Lycanroc,80,Tough Claws,False
+Instructor Tyme,Drednaw,80,Strong Jaw,False
+Instructor Tyme,Stonjourner,80,Power Spot,False
+Instructor Tyme,Coalossal,80,Steam Engine,False
+Instructor Tyme,Garganacl,81,Purifying Salt,True
+Instructor Salvatore,Gothitelle,80,Competitive,False
+Instructor Salvatore,Honchkrow,80,Super Luck,False
+Instructor Salvatore,Persian,80,Technician,False
+Instructor Salvatore,Palossand,80,Water Compaction,False
+Instructor Salvatore,Sandslash,80,,False
+Instructor Salvatore,Raichu,81,Static,True
+Director Clavell,Oranguru,80,Inner Focus,False
+Director Clavell,Abomasnow,80,Snow Warning,False
+Director Clavell,Polteageist,80,Weak Armor,False
+Director Clavell,Houndoom,80,Flash Fire,False
+Director Clavell,Amoonguss,80,Effect Spore,False
+Director Clavell,Quaquaval,81,Torrent,True
+Director Clavell,Oranguru,80,Inner Focus,False
+Director Clavell,Abomasnow,80,Snow Warning,False
+Director Clavell,Polteageist,80,Weak Armor,False
+Director Clavell,Amoonguss,80,Effect Spore,False
+Director Clavell,Gyarados,80,Intimidate,False
+Director Clavell,Skeledirge,81,Blaze,True
+Director Clavell,Oranguru,80,Inner Focus,False
+Director Clavell,Abomasnow,80,Snow Warning,False
+Director Clavell,Polteageist,80,Weak Armor,False
+Director Clavell,Gyarados,80,Intimidate,False
+Director Clavell,Houndoom,80,Flash Fire,False
+Director Clavell,Meowscarada,81,Overgrow,True
+Top Champion Geeta,Glimmora,84,Toxic Debris,False
+Top Champion Geeta,Espathra,84,Opportunist,False
+Top Champion Geeta,Chesnaught,84,Bulletproof,False
+Top Champion Geeta,Avalugg,84,Own Tempo,False
+Top Champion Geeta,Dragapult,84,Clear Body,False
+Top Champion Geeta,Kingambit,85,Supreme Overlord,True
+Pokémon Trainer Penny,Umbreon,84,Synchronize,False
+Pokémon Trainer Penny,Vaporeon,84,Water Absorb,False
+Pokémon Trainer Penny,Jolteon,84,Quick Feet,False
+Pokémon Trainer Penny,Flareon,84,Flash Fire,False
+Pokémon Trainer Penny,Leafeon,84,Leaf Guard,False
+Pokémon Trainer Penny,Sylveon,85,Cute Charm,True
+Pokémon Trainer Arven,Greedent,82,Cheek Pouch,False
+Pokémon Trainer Arven,Cloyster,82,Skill Link,False
+Pokémon Trainer Arven,Scovillain,82,Chlorophyll,False
+Pokémon Trainer Arven,Toedscruel,82,Mycelium Might,False
+Pokémon Trainer Arven,Garganacl,82,Purifying Salt,False
+Pokémon Trainer Arven,Mabosstiff,83,Intimidate,True
+Pokémon Trainer Nemona,Lycanroc,86,Sand Rush,False
+Pokémon Trainer Nemona,Kommo-o,86,Soundproof,False
+Pokémon Trainer Nemona,Infernape,86,Blaze,False
+Pokémon Trainer Nemona,Milotic,86,Competitive,False
+Pokémon Trainer Nemona,Pawmot,86,Volt Absorb,False
+Pokémon Trainer Nemona,Meowscarada,87,Overgrow,True
+Pokémon Trainer Nemona,Lycanroc,86,Sand Rush,False
+Pokémon Trainer Nemona,Kommo-o,86,Soundproof,False
+Pokémon Trainer Nemona,Decidueye,86,Overgrow,False
+Pokémon Trainer Nemona,Ribombee,86,Shield Dust,False
+Pokémon Trainer Nemona,Pawmot,86,Volt Absorb,False
+Pokémon Trainer Nemona,Quaquaval,87,Torrent,True
+Pokémon Trainer Nemona,Lycanroc,86,Sand Rush,False
+Pokémon Trainer Nemona,Kommo-o,86,Soundproof,False
+Pokémon Trainer Nemona,Greninja,86,Torrent,False
+Pokémon Trainer Nemona,Dusknoir,86,Pressure,False
+Pokémon Trainer Nemona,Pawmot,86,Volt Absorb,False
+Pokémon Trainer Nemona,Skeledirge,87,Blaze,True
