@@ -2,3 +2,6 @@
 __pycache__/
 
 node_modules/
+
+data/test-pokemon.json
+data/matchup-summary.csv

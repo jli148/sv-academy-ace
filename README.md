@@ -15,6 +15,7 @@ python ./src/scrape_trainer_pokemon.py
 ```
 
 # Running a Pokemon Against Trainers
+## Finding Minimum Speed Investment
 [`find-speed-investment.js`](./src/find-speed-investment.js) helps find the minimum Speed EV investment required to outspeed all trainers' Pokemon.
 
 ```sh
@@ -40,3 +41,22 @@ node ./src/find-speed-investment.js Dragonite Adamant
 Dragonite needs a Speed increasing nature and 168 Speed EVs to outspeed all trainers' Pokemon (261 > 260)
 Dragonite with Adamant nature cannot outspeed all trainers' Pokemon even with max Speed investment (259 < 260)
 ```
+
+## Summarizing Matchups
+[`calc-matchups.js`](./src/calc-matchups.js) summarizes a Pokemon's KO chances against all trainers' Pokemon. The script reads information about the Pokemon to test from `data/test-pokemon.json`, with the following schema:
+```json
+{
+    "name": "Pikachu",
+    "evs": {
+        "spa": 252
+    },
+    "nature": "Modest",
+    "move": "Thunderbolt"
+}
+```
+
+```sh
+node ./src/calc-matchups.js
+```
+
+Matchup summaries are saved to `data/matchup-summary.csv`.
