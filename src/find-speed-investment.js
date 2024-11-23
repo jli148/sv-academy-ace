@@ -8,7 +8,7 @@ const gen = Generations.get(9);
 const name = process.argv[2];
 const natureRequirement = process.argv[3];
 const basePokemon = new Pokemon(gen, name, { nature: natureRequirement });
-const speedMultiplier = pokeUtil.getNatureSpeedMultiplier(natureRequirement);
+const speedMultiplier = natureRequirement ? pokeUtil.getNatureSpeedMultiplier(natureRequirement) : 1.0;
 
 function getTrainerMaxSpe(trainer) {
     return trainer.pokemon
@@ -55,7 +55,7 @@ if (natureRequirement) {
 }
 
 spe_diff = highest_spe - pokeUtil.retrain(basePokemon, undefined, 'Jolly').stats.spe;
-requiredEvs = Math.ceil((spe_diff + 1) / speedMultiplier) * 4;
+requiredEvs = Math.ceil((spe_diff + 1) / 1.1) * 4;
 
 if (requiredEvs > 252) {
     console.log(

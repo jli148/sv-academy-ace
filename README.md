@@ -18,5 +18,25 @@ python ./src/scrape_trainer_pokemon.py
 [`find-speed-investment.js`](./src/find-speed-investment.js) helps find the minimum Speed EV investment required to outspeed all trainers' Pokemon.
 
 ```sh
+node ./src/find-speed-investment.js Fluttermane
 node ./src/find-speed-investment.js Pikachu
+node ./src/find-speed-investment.js Sylveon
+```
+
+```
+Fluttermane outspeeds all trainers' Pokemon with no Speed investment (306 > 260)
+Pikachu needs 180 Speed EVs to outspeed all trainers' Pokemon (261 > 260)
+Sylveon cannot outspeed all trainers' Pokemon even with max Speed investment (240 < 260)
+```
+
+The Pokemon's nature can be "locked in," in which case the script does not change the nature even if doing so would allow the Pokemon to outpseed all trainers' Pokemon. This may be useful if a specific nature is required to guarantee KOs.
+
+```sh
+node ./src/find-speed-investment.js Dragonite
+node ./src/find-speed-investment.js Dragonite Adamant
+```
+
+```
+Dragonite needs a Speed increasing nature and 168 Speed EVs to outspeed all trainers' Pokemon (261 > 260)
+Dragonite with Adamant nature cannot outspeed all trainers' Pokemon even with max Speed investment (259 < 260)
 ```
